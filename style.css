@@ -1,0 +1,116 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE BELOW */
+
+{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+@font-face {font-family: "Petit Formal Script";
+  src: url(PetitFormalScript-Regular.ttf);}
+
+body {background-image: url("bookback.jpeg");
+	background-size:100%;
+  font-size: 15px;
+  font-family: "Poppins";
+  color: #40697F;}
+
+
+ul {list-style-type: none;
+    color: #40697F; }
+
+
+#all {background-color: rgba(255,255,255,0.6);}
+
+#neon {margin-top: 60px;
+      padding: 100px;}
+
+#bio {
+  background-color: #F5F5F5;
+  background-position: center;
+    padding:40px; 
+    margin-top: 60px;
+    font-size: 20px;}
+
+#joinus {padding-top: 30px;
+        font-size: 25px;}
+#joindough {padding: 50px;}
+
+#menu {color: #40697F;
+ padding-top: 30px;
+font-size: 25px;}
+
+hr.solid {border-top: 5px solid #40697F;
+           margin-top: 50px;}
+
+#nav {background-color: #40697F;
+    font-size: 25px;
+    font-family: "Petit Formal Script";}
+.nav-link{color: #F5F5F5;}
+.navbar-nav {padding-left: 30px;
+            padding-top: 50px;}
+
+
+h1 {font-family: "Petit Formal Script";
+    font-size: 65px;
+    color: #40697F;}
+
+h2 {font-family: "Petit Formal Script";
+    font-size: 45px;
+    color: #40697F;}
+
+#starter {text-align: center;
+            padding: 50px;
+            padding-bottom: 30px;
+            background-color: #F5F5F5;
+            margin-top: 60px;
+          border-radius: 10px;}
+          
+
+.card-title {font-family: "Petit Formal Script";
+    font-size: 35px;}
+
+.card {background-color: #F5F5F5;
+        color: black; 
+      margin-top: 60px;
+      margin-left: 50px;
+      margin-right: 50px;
+      padding: 20px;
+      font-size: 15px;
+    border-radius: 10px;}
+
+#form {background-color: #F5F5F5;
+       margin-top: 95px;
+      width: 90%;
+      margin-bottom: 80px;
+      padding: 20px;
+    border-radius: 10px;}
+
+.btn {background-color: #7CA6BD;
+      color: black;}
+
+a {color: #40697F;}
+
+footer {
+  text-align: left;
+  background-color: #7CA6BD;
+  padding:20px;
+  color: white;
+  font-size: 20px;
+  height: 600px;}
+
+footer h1 {font-size:30px;}
+footer a {text-decoration: none;}
+
+#event {background-color: #F5F5F5;
+        padding:70px;}
+
+#faqheader {text-align: center;
+            background-color: #F5F5F5;
+            padding-bottom: 40px;
+            padding-top: 40px;}
+
+.accordion  {font-family:"Poppins";
+            background-color: #F5F5F5;
+            font-size: 25px;
+            padding-left: 70px;
+            padding-right:70px;
+            padding-bottom: 70px;}
